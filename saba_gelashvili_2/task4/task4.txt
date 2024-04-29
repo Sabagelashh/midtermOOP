@@ -1,0 +1,5 @@
+Set of unique words:
+[word1, word2, word3, ...]
+
+Map of word lengths and their counts:
+{3=12, 4=25, 5=37, ...}
